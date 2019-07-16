@@ -17,6 +17,8 @@ These are the open source projects used for the website:
 
 This project also uses **Bootstrap** and **JQuery** frameworks.
 
+Due to Jqeury restrictions you need to download **apache** to run the site correctly in your localhost. You can download [XAMPP](https://www.apachefriends.org/download.html) and configure the website directory to your repo.
+
 ## How should the project look like
 As an intial plan the application should have 2 main parts:
 * An editor (SheetJS viewport)
