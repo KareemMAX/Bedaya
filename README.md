@@ -1,5 +1,7 @@
 # Bedaya
 
+_This project is abandoned in the meantime. I may revisit it later_
+
 ## What is this?
 
 This is the interactive website of **Kafelat Bedaya** that is made to manage and register data.
